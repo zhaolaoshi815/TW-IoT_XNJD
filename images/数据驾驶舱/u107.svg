@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip25">
+      <path d="M 1.08571 16  C 1.08571 7.77143  7.77143 1.08571  16 1.08571  C 24.2286 1.08571  30.9143 7.77143  30.9143 16  C 30.9143 24.2286  24.2286 30.9143  16 30.9143  C 7.77143 30.9143  1.08571 24.2286  1.08571 16  Z M 32 16  C 32 7.2  24.8 0  16 0  C 7.2 0  0 7.2  0 16  C 0 24.8  7.2 32  16 32  C 24.8 32  32 24.8  32 16  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -413 0 )">
+    <path d="M 1.08571 16  C 1.08571 7.77143  7.77143 1.08571  16 1.08571  C 24.2286 1.08571  30.9143 7.77143  30.9143 16  C 30.9143 24.2286  24.2286 30.9143  16 30.9143  C 7.77143 30.9143  1.08571 24.2286  1.08571 16  Z M 32 16  C 32 7.2  24.8 0  16 0  C 7.2 0  0 7.2  0 16  C 0 24.8  7.2 32  16 32  C 24.8 32  32 24.8  32 16  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" transform="matrix(1 0 0 1 413 0 )" class="fill" />
+    <path d="M 1.08571 16  C 1.08571 7.77143  7.77143 1.08571  16 1.08571  C 24.2286 1.08571  30.9143 7.77143  30.9143 16  C 30.9143 24.2286  24.2286 30.9143  16 30.9143  C 7.77143 30.9143  1.08571 24.2286  1.08571 16  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 413 0 )" class="stroke" mask="url(#Clip25)" />
+    <path d="M 32 16  C 32 7.2  24.8 0  16 0  C 7.2 0  0 7.2  0 16  C 0 24.8  7.2 32  16 32  C 24.8 32  32 24.8  32 16  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 413 0 )" class="stroke" mask="url(#Clip25)" />
+  </g>
+</svg>
